@@ -1,0 +1,767 @@
+{
+  "xneam": {
+    "source_guild": "XTEAM",
+    "roles": [
+      {
+        "name": "Участник",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "новая роль",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Discohook Utils",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 275684617280,
+        "position": 1
+      },
+      {
+        "name": "mercury",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 462763502931521,
+        "position": 1
+      },
+      {
+        "name": "отпуск",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Bump Reminder",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 125952,
+        "position": 1
+      },
+      {
+        "name": "Server Monitoring",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 117761,
+        "position": 1
+      },
+      {
+        "name": "―――БОТЫ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Boost Exp",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Boost Coin",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――ДОСТУПЫ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Valorant",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Minecraft",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": true,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Rust",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "CS:GO",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Dota 2",
+        "color": 1777504,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――ИГРОВЫЕ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ трибуны",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ стримы",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ ивенты",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ клозы",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ наборы",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ розыгрыши",
+        "color": 2172274,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――УВЕДОМЛЕНИЯ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Верификация",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 67108865,
+        "position": 1
+      },
+      {
+        "name": "―――ГЕНДЕР―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "художник",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "литератор",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "музыкант",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "кинотеатр",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "⠀ творчество",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "даббер",
+        "color": 2567559,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――КРЕАТИВЫ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――КЛАНЫ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "секта",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 462763502931521,
+        "position": 1
+      },
+      {
+        "name": "―――КОМНАТЫ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Bump",
+        "color": 6529535,
+        "hoist": false,
+        "mentionable": true,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Server Booster",
+        "color": 6529535,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 110919782092353,
+        "position": 1
+      },
+      {
+        "name": "Custom Roles (не удалять)",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――РОЛИ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Не допуск",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": true,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Event ban",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Close ban",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Text Mute",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 40136573257217,
+        "position": 1
+      },
+      {
+        "name": "Voice Mute",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 274945084481,
+        "position": 1
+      },
+      {
+        "name": "Local Ban",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "carantine",
+        "color": 1382476,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――НАКАЗАНИЯ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Helper",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Clanmod",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Tribunemod",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Eventmod",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Content Maker",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Mediascope",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Creative",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Closemod",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Support",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Control",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Moderator",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Отвечаю за Staff",
+        "color": 3027866,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "―――ОТВЕЧАЮ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Staff",
+        "color": 3357357,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 50176,
+        "position": 1
+      },
+      {
+        "name": "Helper",
+        "color": 3357357,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Clanmod",
+        "color": 3357357,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Tribunemod",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Eventmod",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Creative",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Closemod",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 75595806617153,
+        "position": 1
+      },
+      {
+        "name": "Support",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 29360128,
+        "position": 1
+      },
+      {
+        "name": "Control",
+        "color": 3357357,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Moderator",
+        "color": 3357357,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 110913490563009,
+        "position": 1
+      },
+      {
+        "name": "Ведущий",
+        "color": 3818178,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Master",
+        "color": 3818178,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 112034489667265,
+        "position": 1
+      },
+      {
+        "name": "Curator",
+        "color": 4212949,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 129738873482961,
+        "position": 1
+      },
+      {
+        "name": "Media",
+        "color": 4673768,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 1024,
+        "position": 1
+      },
+      {
+        "name": "Fame",
+        "color": 4873452,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 1024,
+        "position": 1
+      },
+      {
+        "name": "Forum Staff",
+        "color": 5138415,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 112017150938817,
+        "position": 1
+      },
+      {
+        "name": "Voucher",
+        "color": 5138415,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 110917655563969,
+        "position": 1
+      },
+      {
+        "name": "Designer",
+        "color": 5138415,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Developer",
+        "color": 5403634,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "BC winner",
+        "color": 8237567,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Crystal",
+        "color": 5668598,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 110913369001665,
+        "position": 1
+      },
+      {
+        "name": "🔑",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "💠",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "Administrator",
+        "color": 5934073,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 112019457290177,
+        "position": 1
+      },
+      {
+        "name": "―――СТАФФ―――",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 0,
+        "position": 1
+      },
+      {
+        "name": "///",
+        "color": 6199293,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 8,
+        "position": 1
+      },
+      {
+        "name": "🔧",
+        "color": 0,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 8,
+        "position": 1
+      },
+      {
+        "name": "Тех adm",
+        "color": 6529535,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 420012904939263,
+        "position": 1
+      },
+      {
+        "name": "Chief",
+        "color": 8237567,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 138534169608191,
+        "position": 1
+      },
+      {
+        "name": "Sponsor",
+        "color": 9748479,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 112013014855361,
+        "position": 1
+      },
+      {
+        "name": "discord.gg/xteam",
+        "color": 11456255,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 8,
+        "position": 1
+      },
+      {
+        "name": "?",
+        "color": 11456255,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 8,
+        "position": 1
+      },
+      {
+        "name": "💎",
+        "color": 13098751,
+        "hoist": false,
+        "mentionable": false,
+        "permissions": 138538465099775,
+        "position": 1
+      },
+      {
+        "name": "Owner",
+        "color": 13098751,
+        "hoist": true,
+        "mentionable": false,
+        "permissions": 138538465099775,
+        "position": 1
+      }
+    ]
+  }
+}
